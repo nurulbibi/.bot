@@ -1,0 +1,2 @@
+# .bot
+@khusus owner saja
